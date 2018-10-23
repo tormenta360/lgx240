@@ -1,0 +1,5 @@
+config ITSON
+	bool CONFIG_ITSON_KERNEL
+	default y
+	help
+	  Enable Itson for LG request from Telefonica

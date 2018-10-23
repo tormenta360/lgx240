@@ -1,0 +1,104 @@
+
+January 11th in 2017 
+
+vendor\mediatek\proprietary\frameworks\av\media\BnMtkCodec
+vendor\mediatek\proprietary\frameworks\av\media\MtkCodecService 
+
+Above two folder is made by MTK company. 
+
+But due to GPL virus effect, MTK company decided to disclose the source code of two directories
+with theier copyright's sentence including  GPL 2.0 complete license text. 
+
+
+
+" Copyright (C) 2011-2016 MediaTek Inc. " +  GPL 2.0 complete license text = NOTICE of  libBnMtkCodec.so and MtkCodecService  file. 
+
+
+=================================================================================================
+
+Dear Customer, ( from MTK company ) 2017.01.09 
+
+
+ 
+1.  Please make sure that the licenses for the binaries/libraries in the table below are all gpl 2.0. 
+Yes. They are GPLv2 license.
+
+ 
+2.  If GPL 2.0 license is used for the directories in the table below, please check whether it is no problem or not if whole source code is opened including sub directories Yes. It’s no problem to open source. 
+3.  please provide copyright holder information for each directory.
+
+Copyright (C) Dave Chapman 2007
+
+ 
+
+
+Binary/Library File
+ 
+Directory
+ 
+License
+ 
+
+libapedec_mtk.a
+ 
+vendor/mediatek/proprietary/external/apedec/arm_64
+ 
+GPL 2.0
+ 
+
+system/lib/libBnMtkCodec.so
+ 
+vendor/mediatek/proprietary/frameworks/av/media/BnMtkCodec
+ 
+GPL 2.0
+ 
+
+system/bin/MtkCodecService
+ 
+vendor/mediatek/proprietary/frameworks/av/media/MtkCodecService
+ 
+GPL 2.0
+ 
+
+ 
+=================================================================================================
+Dear Mr.Asher Lee,
+
+ 
+
+Thanks for your waiting.
+
+Please refer to the feedback as follow.
+
+ 
+
+--------------------
+
+vendor/mediatek/proprietary/external/apedec/arm_xx is GPL v2 License,
+
+And it is no problem to open the whole source code. 
+
+--------------------
+
+
+ 
+
+Best Regards,
+
+Martin Kang(강문석)
+
+ 
+
+SW Program Manager
+
+Application and Customer Support
+
+
+
+2015년에는 GPL 2.0으로 release를 했으나.
+
+2016년에는 Apache License 2.0으로 relase를 함. 
+
+
+
+ 

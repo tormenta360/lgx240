@@ -1,0 +1,10 @@
+# +++++ [Arima 5556] 20160909 Add Hw version By  Edwin
+config ARIMA_HW_VERSION
+	bool "Hardware Version"
+	help
+	  Show hardware version at proc/
+# ----- [Arima 5556] 20160909 Add Hw version By  Edwin
+
+
+
+
